@@ -1,3 +1,3 @@
 # markdown-resume
 
-this is my resume
+Hi, this is my resume.
